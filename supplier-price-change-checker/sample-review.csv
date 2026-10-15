@@ -1,0 +1,6 @@
+﻿"SKU","Status","Previous price","Updated price","Difference","Change percent","Currency and unit basis"
+"00123","INCREASE","10.00","11.50","1.50","15.00%","USD · per item"
+"A-7","REVIEW BASIS","24.00","26.00","","","USD · per case of 6 → USD · per case of 12"
+"B2","DECREASE","15.00","13.50","-1.50","-10.00%","USD · per item"
+"C4","NEW","","6.00","","","USD · per item"
+"Z9","MISSING","8.00","","","","USD · per item"

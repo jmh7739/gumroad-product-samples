@@ -1,0 +1,5 @@
+order_id,sku,quantity,product_name
+ORD-001,CUP-BLUE,2,Blue Ceramic Cup
+ORD-001,TRAY-WOOD,1,Wood Serving Tray
+ORD-002,CUP-BLUE,3,Blue Ceramic Cup
+ORD-003,NOTE-A5,4,A5 Notebook
